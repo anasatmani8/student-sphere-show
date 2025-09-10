@@ -19,19 +19,19 @@ const ContactSection = () => {
     {
       icon: <Mail className="h-5 w-5 text-primary" />,
       label: "Email",
-      value: "your.email@example.com",
-      href: "mailto:your.email@example.com"
+      value: "anasatmani8@gmail.com",
+      href: "mailto:anasatmani8@gmail.com"
     },
     {
       icon: <Phone className="h-5 w-5 text-primary" />,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
+      value: "+49 176 6292 5470",
+      href: "tel:+49 176 6292 5470"
     },
     {
       icon: <MapPin className="h-5 w-5 text-primary" />,
       label: "Location",
-      value: "City, Country",
+      value: "Aachen, Germany",
       href: null
     }
   ];
